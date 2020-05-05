@@ -1,2 +1,3 @@
-# conda_setup_mac
-How to setup a data environment using conda environments for Mac OSX
+# Setting up Conda on a Mac
+
+How to setup a data science development environment using conda environments for Mac OSX
